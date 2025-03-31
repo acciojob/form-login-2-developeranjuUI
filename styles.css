@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+h1{
+	text-align: center;
+}
+input{
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	width: 50%
+}
+button{
+	margin-top: 20px;
+	border: 0;
+	padding: 10px 15px;
+	color: #fff;
+	background-color: #2e80ec;
+	font-size: 15px;
+}
